@@ -1,0 +1,42 @@
+# Keil µVision generated files
+
+# User-specific files
+*.opt
+*.uvopt
+*.uvoptx
+*.uvgui
+*.uvgui.*
+*.uvguix.*
+
+# Build output
+**/Listings/*
+**/Objects/*
+**/Debug/*
+**/Release/*
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.i
+*.cod
+*.crf
+*.d
+
+# Other common temp files
+*.dep
+*.lnp
+*.build_log.htm
+*.scat
+*.sct
+*.bak
+*.tmp
+
+# RTE folder (if using packs)
+**/RTE/
+
+# Debug config
+*.ini
+*.dbgconf
